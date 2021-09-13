@@ -1,1 +1,0 @@
-# hw_m14_algorithmic_trading
